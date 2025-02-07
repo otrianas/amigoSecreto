@@ -2,7 +2,7 @@ Creación de Juego de Amigo Secreto
 
 Permite agregar nombre de amigos que luego participarán en la realización de un sorteo al azar para asignar un "amigo secreto".
 
-1. Añade el nombre a la lista de participantes, asegurandosé de que no esté vacío. Si está vacío, mostrar un alert con un mensaje de error: "Por favor, inserte un nombre."
+1. Agrega el nombre a la lista de participantes, asegurándose de que no esté vacío. Si está vacío, muestra una alerta con el mensaje de error: "Por favor, inserte un nombre."
 2. Valida que no se encuentren duplicados los nombres de los participantes.
 3. Realiza el sorteo si hay al menos dos participantes y selecciona un ganador al azar, luego muestra el resultado.
 
